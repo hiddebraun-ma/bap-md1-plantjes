@@ -23,7 +23,6 @@ function get_latest_plants() {
 
 }
 
-```php
 function get_all_plants() {
    
    // Hier zet je de juiste code
@@ -31,7 +30,6 @@ function get_all_plants() {
    return $plantjes;
    
 }
-
 ```
 
 en in de twee PHP/HTML bestanden roep je ze aan:
