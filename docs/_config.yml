@@ -1,3 +1,5 @@
 remote_theme: "mmistakes/minimal-mistakes@4.16.4"
 title: "BAP MD1 - Website ombouwen naar MVC structuur"
 minimal_mistakes_skin: "mint"
+plugins:
+  - jekyll-include-cache
