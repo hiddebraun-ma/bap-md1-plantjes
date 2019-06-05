@@ -8,3 +8,21 @@
 - Zet na deze code een *include* die het juiste PHP bestand (met de HTML) in te laden IN de twee functions. 
 
 Bijna klaar, alleen [stap 6](Stap6.md) nog!
+
+---
+#### Hulplijn
+In `controllers.php` staat iets als:
+
+```php
+function homepage(){
+  $pdo = dbConnect();
+  $plantjes = /* welke function uit het model roep je hier aan? */
+  // Hier komt de include van je PHP/HTML bestand
+}
+
+function alle_plantjes(){
+  $pdo = dbConnect();
+  $plantjes = /* welke function uit het model roep je hier aan? */ 
+  // Hier komt de include van je PHP/HTML bestand
+}
+```

@@ -7,3 +7,14 @@
 - **Test of alles weer werkt**.
 
 Hopsa. Door naar [stap 5](Stap5.md)
+
+---
+#### Hulplijn
+
+```php
+include 'header.php';
+
+// de andere HTML en PHP die er al stond
+
+include 'footer.php';
+```

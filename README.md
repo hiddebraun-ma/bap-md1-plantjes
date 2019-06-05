@@ -8,6 +8,7 @@ In deze opdracht leer je hoe je code die nog niet zo goed is georganiseerd kunt 
 - De student kan een stuk code waar logica gegevens en weergave door elkaar heen staat opnieuw organiseren in een beter georgainseerde structuur
 - De student kan dubbele code omzetten in herbruikbare functies
 - De student kan weergave, gegevens en logica van elkaar scheiden en een structuur opzetten waar later makkelijk extra code aan toegevoegd kan worden.
-<hr>
 
-Begin bij [het begin](docs/index.md).
+---
+
+Begin bij [het begin](https://hiddebraun-ma.github.io/bap-md1-plantjes).

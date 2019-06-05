@@ -9,7 +9,8 @@ Werkt alles? Door naar [stap 2](Stap2.md)
 
 ---
 
-Tip: Heb je moeite met databases, queries etc. Lees dan de BAP blokken nog eens door die dit behandelen  
-* http://mamd.sites.ma-cloud.nl/bap-3a-database-introductie-create/
-* http://mamd.sites.ma-cloud.nl/bap-3b-database-import-en-start-met-crud/
-* http://mamd.sites.ma-cloud.nl/bap-5b-form-validatie-opslaan-in-database/
+**Tip:** Heb je nog moeite met databases, queries etc. Lees dan de BAP blokken nog eens goed door die dit behandelen
+  
+* [http://mamd.sites.ma-cloud.nl/bap-3a-database-introductie-create/](http://mamd.sites.ma-cloud.nl/bap-3a-database-introductie-create/)
+* [http://mamd.sites.ma-cloud.nl/bap-3b-database-import-en-start-met-crud/](http://mamd.sites.ma-cloud.nl/bap-3b-database-import-en-start-met-crud/)
+* [http://mamd.sites.ma-cloud.nl/bap-5b-form-validatie-opslaan-in-database/](http://mamd.sites.ma-cloud.nl/bap-5b-form-validatie-opslaan-in-database/)
