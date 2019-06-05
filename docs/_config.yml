@@ -1,2 +1,4 @@
-theme: jekyll-theme-modernist
-title: BAP MD1 - Website ombouwen naar simpele MVC structuur
+#theme: jekyll-theme-modernist
+remote_theme: kitian616/jekyll-TeXt-theme
+text_skin: forest
+title: BAP MD1 - Website ombouwen naar MVC structuur
