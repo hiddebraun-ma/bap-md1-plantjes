@@ -24,4 +24,4 @@ Het is een simpele website met twee pagina's:
 - Dat er één ingang is naar de website (de front controller) die de juiste code uitvoert voor de opgevraagde pagina.
 <hr />
 
-Ben je zover? Begin bij [stap 1](Stap1.md)
+Ben je zover? Begin bij [stap 1](Stap1.md){: .btn .btn--primary}
