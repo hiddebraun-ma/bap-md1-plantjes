@@ -5,7 +5,7 @@
 - Vraag aan de anderen zij het kunnen uitleggen.
 - In de les zal ik vragen beantwoorden en toelichten wat er gebeurt.
 
-Werkt alles? Door naar [stap 2](Stap2.md)
+Werkt alles? Door naar **[stap 2](Stap2.md).**
 
 ---
 

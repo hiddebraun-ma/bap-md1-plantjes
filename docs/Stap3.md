@@ -8,7 +8,7 @@
 - Maak de foreach loop weer werkend.
 - **Test of alles weer werkt**.
 
-Goed bezig! Door naar [stap 4](Stap4.md)
+Goed bezig! Door naar **[stap 4](Stap4.md).**
 
 ---
 #### Hulplijn
@@ -19,7 +19,7 @@ function get_latest_plants() {
    
    // Hier zet je de juiste code
    
-   return $plantjes;
+   return $statement;
 
 }
 
@@ -27,7 +27,7 @@ function get_all_plants() {
    
    // Hier zet je de juiste code
  
-   return $plantjes;
+   return $statement;
    
 }
 ```

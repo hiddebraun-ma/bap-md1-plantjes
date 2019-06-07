@@ -6,7 +6,7 @@
 - Gebruik **include** om de header.php en footer.php in beide bestanden op dezelfde plek in te laden.
 - **Test of alles weer werkt**.
 
-Hopsa. Door naar [stap 5](Stap5.md)
+Hopsa. Door naar **[stap 5](Stap5.md).**
 
 ---
 #### Hulplijn

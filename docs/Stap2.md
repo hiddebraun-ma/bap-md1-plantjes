@@ -5,7 +5,7 @@
 - Zorg dat de verbinding met een *return* wordt teruggegeven uit de function.
 - Gebruik nu de function die je hebt gemaakt i.p.v. de oude code.
 
-Klaar voor de volgende stap? Ga naar [stap 3](Stap3.md)
+Klaar voor de volgende stap? Ga naar **[stap 3](Stap3.md).**
 
 ---
 #### Hulplijn
@@ -15,7 +15,7 @@ In `functions.php` staat dus nu zoiets als:
 ```php
 function dbConnect() {
  
- ... hier komt de database verbindings code
+ // hier komt de database verbindings code
 
  return $pdo;
 
