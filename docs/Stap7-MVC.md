@@ -1,6 +1,5 @@
 #### Stap 7: Overzicht de MVC structuur die je hebt gemaakt
 
-
 #### Model
 In `model.php` heb je nu alle *Model* functions gezet.
 Oftewel: alle functions die gegevens ophalen 
@@ -23,3 +22,6 @@ Deze gegevens geeft de controller aan de view. Het werk van de controller is dan
 De view kan het nu weergeven. 
 
 
+---
+
+![MVC structuur](mvc-structuur.svg)

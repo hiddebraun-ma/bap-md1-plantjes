@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1551px" height="1242px" viewBox="0 0 1551 1242" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>Group 6</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#000000" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="95%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.04" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" stop-opacity="0.8" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.4" offset="4.9360058%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="20%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-3" x="0" y="0" width="603" height="330" rx="2"></rect>
+        <filter x="-8.0%" y="-14.5%" width="115.9%" height="136.4%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="24" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="12" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="12" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter2" in2="SourceAlpha" operator="out" result="shadowBlurOuter2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.22 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#000000" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="80%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.02" offset="95%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.04" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#FFFFFF" stop-opacity="0.200000003" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.1" offset="4.90476333%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="20%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-7" x="0" y="0" width="365" height="72.2285714" rx="2"></rect>
+        <filter x="-1.1%" y="-5.5%" width="102.2%" height="113.8%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.24 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter2" in2="SourceAlpha" operator="out" result="shadowBlurOuter2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <ellipse id="path-9" cx="20" cy="22.5714286" rx="20" ry="22.5714286"></ellipse>
+        <rect id="path-11" x="0" y="0" width="365" height="72.2285714" rx="2"></rect>
+        <filter x="-1.1%" y="-5.5%" width="102.2%" height="113.8%" filterUnits="objectBoundingBox" id="filter-12">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.24 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter2" in2="SourceAlpha" operator="out" result="shadowBlurOuter2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <ellipse id="path-13" cx="21" cy="22.5714286" rx="21" ry="22.5714286"></ellipse>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-15">
+            <stop stop-color="#000000" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="95%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.04" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-16">
+            <stop stop-color="#FFFFFF" stop-opacity="0.8" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.4" offset="4.9360058%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="20%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-17" x="0" y="0" width="603" height="288" rx="2"></rect>
+        <filter x="-8.0%" y="-16.7%" width="115.9%" height="141.7%" filterUnits="objectBoundingBox" id="filter-18">
+            <feOffset dx="0" dy="24" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="12" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="12" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter2" in2="SourceAlpha" operator="out" result="shadowBlurOuter2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.22 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-19">
+            <stop stop-color="#000000" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="95%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.04" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-20">
+            <stop stop-color="#FFFFFF" stop-opacity="0.8" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.4" offset="4.9360058%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="20%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-21" x="0" y="0" width="690" height="429" rx="2"></rect>
+        <filter x="-7.0%" y="-11.2%" width="113.9%" height="128.0%" filterUnits="objectBoundingBox" id="filter-22">
+            <feOffset dx="0" dy="24" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="12" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="12" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter2" in2="SourceAlpha" operator="out" result="shadowBlurOuter2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.22 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="MVC" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-6" transform="translate(24.000000, 0.000000)">
+            <g id="Group-3" transform="translate(727.000000, 146.000000)">
+                <g id="Model" transform="translate(173.000000, 0.000000)">
+                    <g id="dialog">
+                        <g id="dialog-bg">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                            <rect stroke="url(#linearGradient-1)" stroke-width="0.5" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd" x="0.25" y="0.25" width="602.5" height="329.5" rx="2"></rect>
+                            <rect stroke="url(#linearGradient-2)" stroke-width="0.5" stroke-linejoin="square" x="0.25" y="0.25" width="602.5" height="329.5" rx="2"></rect>
+                        </g>
+                        <text id="Model" font-family="Helvetica" font-size="20" font-weight="normal" line-spacing="28" fill="#000000" fill-opacity="0.87">
+                            <tspan x="27" y="39">Model</tspan>
+                        </text>
+                    </g>
+                    <g id="Model-functions" transform="translate(27.000000, 128.000000)">
+                        <g id="notification" transform="translate(148.000000, 85.771429)">
+                            <g id="card">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                                <rect stroke="url(#linearGradient-5)" stroke-width="1" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd" x="0.5" y="0.5" width="364" height="71.2285714" rx="2"></rect>
+                                <rect stroke="url(#linearGradient-6)" stroke-width="1" stroke-linejoin="square" x="0.5" y="0.5" width="364" height="71.2285714" rx="2"></rect>
+                            </g>
+                            <text id="Haalt-de-laatste-10" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="20" fill="#000000" fill-opacity="0.543846241">
+                                <tspan x="64" y="53.5">Haalt de laatste 10 plantjes uit de database</tspan>
+                            </text>
+                            <text id="get_latest_plants()" font-family="Helvetica" font-size="16" font-weight="normal" line-spacing="24" fill="#000000" fill-opacity="0.87">
+                                <tspan x="64" y="31.2142857">get_latest_plants()</tspan>
+                            </text>
+                            <g id="avatar" transform="translate(12.000000, 13.542857)">
+                                <mask id="mask-10" fill="white">
+                                    <use xlink:href="#path-9"></use>
+                                </mask>
+                                <use id="Mask" fill-opacity="0.38" fill="#000000" xlink:href="#path-9"></use>
+                            </g>
+                        </g>
+                        <g id="Model" transform="translate(148.000000, 0.000000)">
+                            <g id="card">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
+                                <rect stroke="url(#linearGradient-5)" stroke-width="1" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd" x="0.5" y="0.5" width="364" height="71.2285714" rx="2"></rect>
+                                <rect stroke="url(#linearGradient-6)" stroke-width="1" stroke-linejoin="square" x="0.5" y="0.5" width="364" height="71.2285714" rx="2"></rect>
+                            </g>
+                            <text id="Haalt-alle-plantjes" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="20" fill="#000000" fill-opacity="0.543846241">
+                                <tspan x="68" y="53.5">Haalt alle plantjes op uit de database</tspan>
+                            </text>
+                            <text id="get_all_plants()" font-family="Helvetica" font-size="16" font-weight="normal" line-spacing="24" fill="#000000" fill-opacity="0.87">
+                                <tspan x="68" y="31.2142857">get_all_plants()</tspan>
+                            </text>
+                            <g id="avatar" transform="translate(13.000000, 13.542857)">
+                                <mask id="mask-14" fill="white">
+                                    <use xlink:href="#path-13"></use>
+                                </mask>
+                                <use id="Mask" fill-opacity="0.38" fill="#000000" xlink:href="#path-13"></use>
+                            </g>
+                        </g>
+                        <g id="noun_database_2566804" transform="translate(0.000000, 31.600000)" fill="#000000" fill-rule="nonzero">
+                            <g id="Group">
+                                <g id="Shape">
+                                    <path d="M36,0 C56.1852,0 72,8.03226857 72,18.2828571 L72,22.0288114 C67.05,27.3755314 52.4844,32.5028571 36,32.5028571 C16.0596,32.5028571 0,24.7224857 0,18.2828571 C0,8.03226857 15.8148,0 36,0 Z M0,25.849116 C6.7032,32.4715731 21.726,36.5669331 36,36.5669331 C49.6188,36.5669331 64.3104,32.930676 72,27.0964131 L72,40.3088246 C67.05,45.6596074 52.4808,50.7869331 36,50.7869331 C16.056,50.7869331 0,43.0065617 0,36.5669331 L0,25.849116 Z M0,44.1319731 C6.7032,50.7544303 21.726,54.8497903 36,54.8497903 C49.6152,54.8497903 64.3068,51.2135331 72,45.3792703 L72,58.5957446 C67.05,63.9424646 52.4808,69.0697903 36,69.0697903 C16.056,69.0697903 0,61.2894189 0,54.8497903 L0,44.1319731 Z M0,62.4148303 C6.7032,69.0372874 21.726,73.1326474 36,73.1326474 C49.6152,73.1326474 64.3068,69.4963903 72,63.6621274 L72,71.1012189 C72,81.3518074 56.1852,89.384076 36,89.384076 C15.8148,89.384076 0,81.3518074 0,71.1012189 L0,62.4148303 Z"></path>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="Accepted-Copy-2" transform="translate(90.000000, 67.714286)" fill="#000000" fill-rule="nonzero">
+                            <path d="M1.37094149,17.001176 C0.593428523,16.8043832 0,15.7572944 0,14.4951241 C0,13.2329537 0.593428523,12.185865 1.37094149,11.9890722 L12.0183646,1.47474183 C12.9535471,0.551249188 14.3750129,0.658197574 15.1932976,1.71361773 C16.0115822,2.7690379 15.9168178,4.37326369 14.9816354,5.29675633 L8.23826115,11.9558384 L34.3636364,11.9558384 C35.267375,11.9558384 36,13.0927153 36,14.4951241 C36,15.8975329 35.267375,17.0344098 34.3636364,17.0344098 L8.23826115,17.0344098 L14.9816354,23.6934918 C15.9168178,24.6169845 16.0115822,26.2212103 15.1932976,27.2766304 C14.3750129,28.3320506 12.9535471,28.438999 12.0183646,27.5155063 L1.37094149,17.001176 Z" id="Combined-Shape"></path>
+                        </g>
+                    </g>
+                    <text id="De-model-laag-bevat" font-family="Helvetica" font-size="24" font-weight="normal" fill="#000000" fill-opacity="0.541326993">
+                        <tspan x="27" y="79">De model laag bevat alle functies die gegevens op </tspan>
+                        <tspan x="27" y="108">halen uit de database.</tspan>
+                    </text>
+                </g>
+                <g id="View" transform="translate(173.000000, 396.000000)">
+                    <g id="dialog-copy">
+                        <g id="dialog-bg">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-18)" xlink:href="#path-17"></use>
+                            <rect stroke="url(#linearGradient-15)" stroke-width="0.5" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd" x="0.25" y="0.25" width="602.5" height="287.5" rx="2"></rect>
+                            <rect stroke="url(#linearGradient-16)" stroke-width="0.5" stroke-linejoin="square" x="0.25" y="0.25" width="602.5" height="287.5" rx="2"></rect>
+                        </g>
+                        <text id="De-view-is-de-weerga" font-family="Helvetica" font-size="24" font-weight="normal" line-spacing="24" fill="#000000" fill-opacity="0.541326993">
+                            <tspan x="27" y="84">De view is de weergave van je website. </tspan>
+                            <tspan x="27" y="108">Meestal is dit in HTML / CSS.</tspan>
+                            <tspan x="27" y="132">De view krijgt de data van de controller.</tspan>
+                        </text>
+                    </g>
+                    <g id="HTML-Icon" transform="translate(27.000000, 163.000000)" fill="#000000" fill-rule="nonzero">
+                        <g id="Group" transform="translate(22.000000, 31.000000)">
+                            <polygon id="Path" points="23.5635833 26.4947647 23.5635833 33.5136176 0 22.6991471 0 16.6977353 23.5635833 5.88441176 23.5635833 12.9525882 7.14458333 19.6502647"></polygon>
+                            <path d="M38.1333333,5.73529412 L31.57375,34.3314706 C31.356,35.2732059 31.1653333,36.0187941 31.0006667,36.5636471 C30.8370833,37.1096471 30.5868333,37.5375 30.2520833,37.8391765 C29.91625,38.1465882 29.4276667,38.298 28.7874167,38.298 C27.1949167,38.298 26.3975833,37.5684706 26.3975833,36.1162941 C26.3975833,35.7354706 26.5546667,34.7857059 26.8666667,33.2647059 L33.4024167,4.66852941 C33.7458333,3.14752941 34.073,2.106 34.385,1.54394118 C34.6980833,0.981882353 35.3069167,0.700852941 36.2136667,0.700852941 C36.99475,0.700852941 37.5905833,0.899294118 38.0044167,1.29617647 C38.41825,1.69305882 38.6251667,2.23905882 38.6251667,2.93302941 C38.6251667,3.44576471 38.4605,4.37947059 38.1333333,5.73529412 Z" id="Path"></path>
+                            <polygon id="Path" points="65 22.6991471 41.4364167 33.5629412 41.4364167 26.5440882 57.9030833 19.6995882 41.4364167 12.9525882 41.4364167 5.98305882 65 16.7470588"></polygon>
+                        </g>
+                        <path d="M103.4,0 L6.6,0 C2.9557,0 0,2.96180682 0,6.61363636 L0,90.3863636 C0,94.0381932 2.9557,97 6.6,97 L103.4,97 C107.0454,97 110,94.0370909 110,90.3863636 L110,6.61363636 C110,2.96070455 107.0454,0 103.4,0 Z M86.9,4.40909091 C89.3255,4.40909091 91.3,6.38656818 91.3,8.81818182 C91.3,11.2497955 89.3255,13.2272727 86.9,13.2272727 C84.4745,13.2272727 82.5,11.2497955 82.5,8.81818182 C82.5,6.38656818 84.4745,4.40909091 86.9,4.40909091 Z M74.8,4.40909091 C77.2255,4.40909091 79.2,6.38656818 79.2,8.81818182 C79.2,11.2497955 77.2255,13.2272727 74.8,13.2272727 C72.3745,13.2272727 70.4,11.2497955 70.4,8.81818182 C70.4,6.38656818 72.3745,4.40909091 74.8,4.40909091 Z M103.4,90.3863636 L6.6,90.3863636 L6.6,17.6363636 L103.4,17.6363636 L103.4,90.3863636 Z M99,13.2272727 C96.5745,13.2272727 94.6,11.2497955 94.6,8.81818182 C94.6,6.38656818 96.5745,4.40909091 99,4.40909091 C101.4255,4.40909091 103.4,6.38656818 103.4,8.81818182 C103.4,11.2497955 101.4255,13.2272727 99,13.2272727 Z" id="Shape"></path>
+                    </g>
+                    <text id="View(s)" font-family="Helvetica-Bold, Helvetica" font-size="23" font-weight="bold" line-spacing="28" fill="#000000" fill-opacity="0.87">
+                        <tspan x="27" y="41">View(s)</tspan>
+                    </text>
+                </g>
+                <g id="arrow" transform="translate(65.000000, 343.000000) scale(-1, 1) translate(-65.000000, -343.000000) translate(0.000000, 178.000000)">
+                    <g>
+                        <g id="Group" transform="translate(59.095013, 0.000000)">
+                            <path d="M57.9242424,12 L9.99049891,12 C4.47289872,12 1.03701898e-16,16.4733916 2.31986206e-16,22.0071953 L6.8616876e-15,307.992805 C6.98981005e-15,313.519626 4.47300101,318 9.99049891,318 L57.9242424,318" id="Path-4" stroke="#1787E0" stroke-width="6"></path>
+                            <polygon id="Triangle-2-Copy-2" fill="#1787E0" points="57.9242424 24 57.9242424 0 69.9242424 12"></polygon>
+                            <polygon id="Triangle-2-Copy-2" fill="#1787E0" points="57.9242424 330 57.9242424 306 69.9242424 318"></polygon>
+                        </g>
+                        <g id="Group-2" transform="translate(0.000000, 139.791667)" stroke="#1787E0">
+                            <path d="M60.5227575,25.8541667 L0,25.8541667" id="Path-5" stroke-width="6"></path>
+                            <circle id="Oval--Copy-3" stroke-width="5" fill="#FFFFFF" cx="13.0041666" cy="25.2083333" r="11"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="Controller" transform="translate(0.000000, 273.000000)">
+                <g id="dialog-copy">
+                    <g id="dialog-bg">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-22)" xlink:href="#path-21"></use>
+                        <rect stroke="url(#linearGradient-19)" stroke-width="0.5" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd" x="0.25" y="0.25" width="689.5" height="428.5" rx="2"></rect>
+                        <rect stroke="url(#linearGradient-20)" stroke-width="0.5" stroke-linejoin="square" x="0.25" y="0.25" width="689.5" height="428.5" rx="2"></rect>
+                    </g>
+                    <text id="Controller" font-family="Helvetica-Bold, Helvetica" font-size="23" font-weight="bold" line-spacing="28" fill="#000000" fill-opacity="0.87">
+                        <tspan x="25.5882353" y="58.192">Controller</tspan>
+                    </text>
+                    <text id="De-controllers-halen" font-family="Helvetica" font-size="25" font-weight="normal" line-spacing="26" fill="#000000" fill-opacity="0.541326993">
+                        <tspan x="25.5882353" y="113.232">De controllers halen de gegevens op uit de Model </tspan>
+                        <tspan x="25.5882353" y="139.232">laag. Deze gegevens worden aan de View gegeven </tspan>
+                        <tspan x="25.5882353" y="165.232">die ze laat zien.</tspan>
+                        <tspan x="49.3553251" y="199.271551"></tspan>
+                        <tspan x="25.5882353" y="217.232">De controller kan ook gegevens uit formulieren </tspan>
+                        <tspan x="25.5882353" y="243.232">uitlezen aan de Model laag geven om op te slaan in </tspan>
+                        <tspan x="25.5882353" y="269.232">de database.</tspan>
+                    </text>
+                </g>
+                <g id="Group-2" transform="translate(30.000000, 294.000000)" fill="#000000">
+                    <g id="noun_database_2566804" fill-rule="nonzero">
+                        <g id="Group">
+                            <g id="Shape">
+                                <path d="M39,0 C60.8673,0 78,8.65700057 78,19.7048571 L78,23.7421634 C72.6375,29.5047394 56.8581,35.0308571 39,35.0308571 C17.3979,35.0308571 0,26.6453457 0,19.7048571 C0,8.65700057 17.1327,0 39,0 Z M0,27.8596028 C7.2618,34.9971399 23.5365,39.4110279 39,39.4110279 C53.7537,39.4110279 69.6696,35.4919508 78,29.2039119 L78,43.4439554 C72.6375,49.2109102 56.8542,54.7370279 39,54.7370279 C17.394,54.7370279 0,46.3515165 0,39.4110279 L0,27.8596028 Z M0,47.5644599 C7.2618,54.7019971 23.5365,59.1158851 39,59.1158851 C53.7498,59.1158851 69.6657,55.1968079 78,48.9087691 L78,63.1531914 C72.6375,68.9157674 56.8542,74.4418851 39,74.4418851 C17.394,74.4418851 0,66.0563737 0,59.1158851 L0,47.5644599 Z M0,67.2693171 C7.2618,74.4068542 23.5365,78.8207422 39,78.8207422 C53.7498,78.8207422 69.6657,74.9016651 78,68.6136262 L78,76.6313137 C78,87.6791702 60.8673,96.3361708 39,96.3361708 C17.1327,96.3361708 0,87.6791702 0,76.6313137 L0,67.2693171 Z"></path>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="HTML-Icon" transform="translate(188.000000, 0.000000)" fill-rule="nonzero">
+                        <g id="Group" transform="translate(22.000000, 31.000000)">
+                            <polygon id="Path" points="23.5635833 26.4947647 23.5635833 33.5136176 0 22.6991471 0 16.6977353 23.5635833 5.88441176 23.5635833 12.9525882 7.14458333 19.6502647"></polygon>
+                            <path d="M38.1333333,5.73529412 L31.57375,34.3314706 C31.356,35.2732059 31.1653333,36.0187941 31.0006667,36.5636471 C30.8370833,37.1096471 30.5868333,37.5375 30.2520833,37.8391765 C29.91625,38.1465882 29.4276667,38.298 28.7874167,38.298 C27.1949167,38.298 26.3975833,37.5684706 26.3975833,36.1162941 C26.3975833,35.7354706 26.5546667,34.7857059 26.8666667,33.2647059 L33.4024167,4.66852941 C33.7458333,3.14752941 34.073,2.106 34.385,1.54394118 C34.6980833,0.981882353 35.3069167,0.700852941 36.2136667,0.700852941 C36.99475,0.700852941 37.5905833,0.899294118 38.0044167,1.29617647 C38.41825,1.69305882 38.6251667,2.23905882 38.6251667,2.93302941 C38.6251667,3.44576471 38.4605,4.37947059 38.1333333,5.73529412 Z" id="Path"></path>
+                            <polygon id="Path" points="65 22.6991471 41.4364167 33.5629412 41.4364167 26.5440882 57.9030833 19.6995882 41.4364167 12.9525882 41.4364167 5.98305882 65 16.7470588"></polygon>
+                        </g>
+                        <path d="M103.4,0 L6.6,0 C2.9557,0 0,2.96180682 0,6.61363636 L0,90.3863636 C0,94.0381932 2.9557,97 6.6,97 L103.4,97 C107.0454,97 110,94.0370909 110,90.3863636 L110,6.61363636 C110,2.96070455 107.0454,0 103.4,0 Z M86.9,4.40909091 C89.3255,4.40909091 91.3,6.38656818 91.3,8.81818182 C91.3,11.2497955 89.3255,13.2272727 86.9,13.2272727 C84.4745,13.2272727 82.5,11.2497955 82.5,8.81818182 C82.5,6.38656818 84.4745,4.40909091 86.9,4.40909091 Z M74.8,4.40909091 C77.2255,4.40909091 79.2,6.38656818 79.2,8.81818182 C79.2,11.2497955 77.2255,13.2272727 74.8,13.2272727 C72.3745,13.2272727 70.4,11.2497955 70.4,8.81818182 C70.4,6.38656818 72.3745,4.40909091 74.8,4.40909091 Z M103.4,90.3863636 L6.6,90.3863636 L6.6,17.6363636 L103.4,17.6363636 L103.4,90.3863636 Z M99,13.2272727 C96.5745,13.2272727 94.6,11.2497955 94.6,8.81818182 C94.6,6.38656818 96.5745,4.40909091 99,4.40909091 C101.4255,4.40909091 103.4,6.38656818 103.4,8.81818182 C103.4,11.2497955 101.4255,13.2272727 99,13.2272727 Z" id="Shape"></path>
+                    </g>
+                    <text id="+" font-family="Helvetica-Bold, Helvetica" font-size="60" font-weight="bold">
+                        <tspan x="115.480469" y="71">+</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="BLOCK-page-2" transform="translate(165.000000, 0.000000)">
+                <g id="Group-4">
+                    <rect id="Rectangle" stroke="#999999" stroke-width="4" fill="#FFFFFF" x="2" y="2" width="354.002778" height="109" rx="10"></rect>
+                    <g id="Group-5" transform="translate(0.000000, 30.711735)" fill="#000000" font-size="20">
+                        <text id="FRONT-CONTROLLER" font-family="Helvetica-Bold, Helvetica" font-weight="bold" line-spacing="21">
+                            <tspan x="52.4931641" y="11.8164062">FRONT CONTROLLER</tspan>
+                        </text>
+                        <text id="index.php" font-family="Helvetica-Light, Helvetica" font-weight="300">
+                            <tspan x="134.49" y="46">index.php</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <g id="Arrow-2" transform="translate(345.000000, 784.000000) rotate(-270.000000) translate(-345.000000, -784.000000) translate(300.000000, 753.000000)">
+                <path d="M0.5,31 L54.5,31" id="Path-2" stroke="#00D563" stroke-width="18"></path>
+                <polygon id="Triangle" fill="#00D563" points="52 61 52 1 90 31"></polygon>
+            </g>
+            <g id="Arrow-1" transform="translate(345.500000, 193.500000) rotate(-270.000000) translate(-345.500000, -193.500000) translate(303.000000, 163.000000)">
+                <path d="M0,30.5 L49,30.5" id="Path-2" stroke="#00D563" stroke-width="18"></path>
+                <polygon id="Triangle" fill="#00D563" points="47 60 47 -8.52651283e-14 85 30"></polygon>
+            </g>
+            <g id="Layouts-/-List" transform="translate(0.000000, 867.000000)">
+                <g>
+                    <g>
+                        <g id="Window">
+                            <g>
+                                <rect id="Rectangle" fill="#C6E6FF" x="0" y="0" width="690" height="375" rx="6"></rect>
+                                <g id="Top-bar">
+                                    <path d="M6,0 L684,0 C687.313708,-6.08718376e-16 690,2.6862915 690,6 L690,30 L0,30 L0,6 C-4.05812251e-16,2.6862915 2.6862915,6.08718376e-16 6,0 Z" id="Rectangle" fill="#9CD3FF"></path>
+                                    <circle id="Oval" fill="#77BAF4" cx="11" cy="8" r="3"></circle>
+                                    <circle id="Oval" fill="#77BAF4" cx="21" cy="8" r="3"></circle>
+                                    <circle id="Oval" fill="#77BAF4" cx="31" cy="8" r="3"></circle>
+                                </g>
+                            </g>
+                        </g>
+                        <rect id="Rectangle" fill="#89CBFF" x="131.727273" y="78.75" width="125.454545" height="56.25" rx="2"></rect>
+                        <rect id="Rectangle" fill="#1583D8" x="288.545455" y="82.5" width="150.545455" height="11.25" rx="5.625"></rect>
+                        <path d="M294.170455,101.25 L552.647727,101.25 C555.754329,101.25 558.272727,103.768398 558.272727,106.875 C558.272727,109.981602 555.754329,112.5 552.647727,112.5 L294.170455,112.5 C291.063853,112.5 288.545455,109.981602 288.545455,106.875 C288.545455,103.768398 291.063853,101.25 294.170455,101.25 Z" id="Rectangle" fill="#89CBFF"></path>
+                        <path d="M294.170455,120 L395.829545,120 C398.936147,120 401.454545,122.518398 401.454545,125.625 C401.454545,128.731602 398.936147,131.25 395.829545,131.25 L294.170455,131.25 C291.063853,131.25 288.545455,128.731602 288.545455,125.625 C288.545455,122.518398 291.063853,120 294.170455,120 Z" id="Rectangle" fill="#89CBFF"></path>
+                        <rect id="Rectangle" fill="#89CBFF" x="131.727273" y="172.5" width="125.454545" height="56.25" rx="2"></rect>
+                        <rect id="Rectangle" fill="#1583D8" x="288.545455" y="176.25" width="150.545455" height="11.25" rx="5.625"></rect>
+                        <path d="M294.170455,195 L552.647727,195 C555.754329,195 558.272727,197.518398 558.272727,200.625 C558.272727,203.731602 555.754329,206.25 552.647727,206.25 L294.170455,206.25 C291.063853,206.25 288.545455,203.731602 288.545455,200.625 C288.545455,197.518398 291.063853,195 294.170455,195 Z" id="Rectangle" fill="#89CBFF"></path>
+                        <path d="M294.170455,213.75 L395.829545,213.75 C398.936147,213.75 401.454545,216.268398 401.454545,219.375 C401.454545,222.481602 398.936147,225 395.829545,225 L294.170455,225 C291.063853,225 288.545455,222.481602 288.545455,219.375 C288.545455,216.268398 291.063853,213.75 294.170455,213.75 Z" id="Rectangle" fill="#89CBFF"></path>
+                        <rect id="Rectangle" fill="#89CBFF" x="131.727273" y="266.25" width="125.454545" height="56.25" rx="2"></rect>
+                        <rect id="Rectangle" fill="#1583D8" x="288.545455" y="270" width="150.545455" height="11.25" rx="5.625"></rect>
+                        <path d="M294.170455,288.75 L552.647727,288.75 C555.754329,288.75 558.272727,291.268398 558.272727,294.375 C558.272727,297.481602 555.754329,300 552.647727,300 L294.170455,300 C291.063853,300 288.545455,297.481602 288.545455,294.375 C288.545455,291.268398 291.063853,288.75 294.170455,288.75 Z" id="Rectangle" fill="#89CBFF"></path>
+                        <path d="M294.170455,307.5 L395.829545,307.5 C398.936147,307.5 401.454545,310.018398 401.454545,313.125 C401.454545,316.231602 398.936147,318.75 395.829545,318.75 L294.170455,318.75 C291.063853,318.75 288.545455,316.231602 288.545455,313.125 C288.545455,310.018398 291.063853,307.5 294.170455,307.5 Z" id="Rectangle" fill="#89CBFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
