@@ -1,7 +1,3 @@
-<?php
-require 'functions.php';
-require 'model.php';
-?>
 <!doctype html>
 <html lang="en">
 <head>
@@ -16,7 +12,7 @@ require 'model.php';
 <div class="wrapper">
     <nav>
         <ul>
-            <li><a href="homepage.php">Home</a></li>
-            <li><a href="alle_plantjes.php">Alle plantjes</a></li>
+            <li><a href="index.php?page=homepage">Home</a></li>
+            <li><a href="index.php?page=alle-plantjes">Alle plantjes</a></li>
         </ul>
     </nav>
