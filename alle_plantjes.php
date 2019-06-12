@@ -5,7 +5,6 @@
     <p>Hieronder zie je alle plantjes die ooit zijn ontdekt door mij.</p>
 
     <?php
-    $plantjes = get_all_plants();
     foreach ($plantjes as $plantje):?>
         <div class="plantje">
             <h2><?php echo $plantje['plant_name'] ?> <em><?php echo $plantje['plant_scientific_name'] ?></em></h2>

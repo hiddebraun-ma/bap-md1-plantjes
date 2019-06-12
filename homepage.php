@@ -4,7 +4,6 @@
     <p>Hieronder de 10 laatste door mij gevonden zeldzame plantjes.</p>
 
     <?php
-    $plantjes = get_latest_plants();
     foreach ( $plantjes as $plantje ):?>
         <div class="plantje">
             <h2><?php echo $plantje['plant_name'] ?> <em><?php echo $plantje['plant_scientific_name'] ?></em></h2>
