@@ -1,5 +1,6 @@
 <?php
 require 'functions.php';
+require 'model.php';
 
 $pdo = dbConnect();
 ?>
@@ -26,9 +27,8 @@ $pdo = dbConnect();
         <p>Hieronder zie je alle plantjes die ooit zijn ontdekt door mij.</p>
 
         <?php
-        $query = 'SELECT * FROM `plants` ORDER BY `plant_name`';
-        $statement = $pdo->query($query);
-        foreach ($statement as $plantje):?>
+        $plantjes = get_all_plants();
+        foreach ($plantjes as $plantje):?>
             <div class="plantje">
                 <h2><?php echo $plantje['plant_name'] ?> <em><?php echo $plantje['plant_scientific_name'] ?></em></h2>
                 <img src="https://images-na.ssl-images-amazon.com/images/I/51TxgNsEnaL.jpg" width="90" height="90"/>

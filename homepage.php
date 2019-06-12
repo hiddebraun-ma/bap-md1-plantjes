@@ -1,5 +1,6 @@
 <?php
 require 'functions.php';
+require 'model.php';
 
 $pdo = dbConnect();
 ?>
@@ -25,10 +26,8 @@ $pdo = dbConnect();
         <p>Hieronder de 10 laatste door mij gevonden zeldzame plantjes.</p>
 
 		<?php
-		$query     = 'SELECT * FROM `plants` ORDER BY `discovery_date` DESC LIMIT 10';
-		$statement = $pdo->query( $query );
-
-		foreach ( $statement as $plantje ):?>
+        $plantjes = get_latest_plants();
+		foreach ( $plantjes as $plantje ):?>
             <div class="plantje">
                 <h2><?php echo $plantje['plant_name'] ?> <em><?php echo $plantje['plant_scientific_name'] ?></em></h2>
                 <img src="https://images-na.ssl-images-amazon.com/images/I/51TxgNsEnaL.jpg" width="90" height="90"/>
