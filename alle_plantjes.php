@@ -1,8 +1,6 @@
 <?php
 require 'functions.php';
 require 'model.php';
-
-$pdo = dbConnect();
 ?>
 <!doctype html>
 <html lang="en">
