@@ -23,4 +23,10 @@ switch ( $_GET['page'] ) {
 	case 'alle-plantjes':
 		alle_plantjes();
 		break;
+	case 'zoeken':
+		zoeken();
+		break;
+	case 'movie':
+		toon_film();
+		break;
 }

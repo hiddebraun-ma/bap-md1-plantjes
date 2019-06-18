@@ -16,3 +16,10 @@
             <li><a href="index.php?page=alle-plantjes">Alle plantjes</a></li>
         </ul>
     </nav>
+    <div class="search-bar">
+        <form action="index.php" method="GET">
+            <input type="hidden" name="page" value="zoeken" />
+            <input type="text" name="term" value="<?php if(isset($searchterm)): echo $searchterm; endif;?>" placeholder="Vul de zoekopdracht in" />
+            <button type="submit">Zoek</button>
+        </form>
+    </div>
