@@ -49,7 +49,6 @@ function search_database($searchterm){
 		'search_term' => '%' . $searchterm . '%'
 	];
 	$statement->execute( $params );
-	$statement = run_search_statement('movies', ['movie_title','movie_genre'], $searchterm );
 	foreach($statement as $movie){
 
 		$rij = [];
