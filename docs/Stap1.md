@@ -2,7 +2,7 @@
 
 - Bekijk individueel de code.
 - Schrijf op welke code je niet snapt.
-- Vraag aan de anderen zij het kunnen uitleggen.
+- Vraag aan klasgenoten of zij het aan je willen uitleggen.
 - In de les zal ik vragen beantwoorden en toelichten wat er gebeurt.
 
 Werkt alles? Door naar **[stap 2](Stap2.md).**
